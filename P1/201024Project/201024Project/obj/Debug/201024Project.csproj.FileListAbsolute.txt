@@ -1,0 +1,10 @@
+C:\Users\Bemip\source\repos\201024Project\201024Project\bin\Debug\201024Project.exe.config
+C:\Users\Bemip\source\repos\201024Project\201024Project\bin\Debug\201024Project.exe
+C:\Users\Bemip\source\repos\201024Project\201024Project\bin\Debug\201024Project.pdb
+C:\Users\Bemip\source\repos\201024Project\201024Project\obj\Debug\201024Project.csprojAssemblyReference.cache
+C:\Users\Bemip\source\repos\201024Project\201024Project\obj\Debug\_201024Project.Form1.resources
+C:\Users\Bemip\source\repos\201024Project\201024Project\obj\Debug\_201024Project.Properties.Resources.resources
+C:\Users\Bemip\source\repos\201024Project\201024Project\obj\Debug\201024Project.csproj.GenerateResource.cache
+C:\Users\Bemip\source\repos\201024Project\201024Project\obj\Debug\201024Project.csproj.CoreCompileInputs.cache
+C:\Users\Bemip\source\repos\201024Project\201024Project\obj\Debug\201024Project.exe
+C:\Users\Bemip\source\repos\201024Project\201024Project\obj\Debug\201024Project.pdb
