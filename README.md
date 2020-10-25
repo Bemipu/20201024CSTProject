@@ -1,5 +1,5 @@
 # 20201024CSTProject
-Two programming level design for 2020 Computer Science tour which made by C#.
+Two programming level design for 2020 Computer Science tour which made with C#.
 
 These level are designing for Surface Pro 7, the resolution of these program may not fit with your own computer.
 
